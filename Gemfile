@@ -48,3 +48,5 @@ group :development, :test do
   # Factories
   gem 'factory_girl_rails'
 end
+
+gem 'devise'
