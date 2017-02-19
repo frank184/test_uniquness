@@ -47,6 +47,9 @@ group :development, :test do
 
   # Factories
   gem 'factory_girl_rails'
+
+  # Shoulda::Matchers
+  gem 'shoulda-matchers'
 end
 
 gem 'devise'
